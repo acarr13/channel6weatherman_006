@@ -1,0 +1,47 @@
+
+#head {
+    color: white;
+}
+.forecast-card {
+    color: white;
+    background-color:#0275d8;
+    border-radius: 5px;
+    font-size: 8pt;
+}
+.search-section {
+    height: 100%;
+}
+.cityList {
+    border: solid;
+    margin: 5px;
+    padding-left: 2px;
+    border-width: thin;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+.cityList:hover {
+    background-color: #0275d8;
+    color: #fff;
+}
+li { 
+    padding: 5px 0px;
+    font-size: 10pt;
+}
+.col { 
+    padding: 2px;
+}
+#fivHeaderWeather {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.overall-Container {
+    margin-top: 5px;
+}
+ul { 
+    padding-left: 0;
+    list-style-type: none;
+}
+.card {
+    background-color: #ececec;
+    width: 100%;
+}
