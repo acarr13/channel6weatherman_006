@@ -25,5 +25,8 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 
+## Screenshot
+![screenshot](./img/weather.png)
+
 ## Links
-[Live Website]()
+[Live Website](https://acarr13.github.io/channel6weatherman_006/)
